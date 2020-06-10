@@ -14,3 +14,5 @@ class Dog
  
 end
   
+  puppy = Dog.new 
+  puppy.name = "Starbuck"
