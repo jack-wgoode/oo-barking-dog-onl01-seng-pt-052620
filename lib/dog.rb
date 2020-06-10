@@ -1,10 +1,10 @@
 class Dog 
   
-  def set_name(name) 
+  def name=(name) 
     @name = name
   end 
   
-  def get_name 
+  def name 
     @name
   end
   
